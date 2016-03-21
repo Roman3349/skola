@@ -1,12 +1,13 @@
 # Česká literatura v 2. polovině 19. století
 
-## 50. léta - Májovci
-
+## 50. léta
   - po porážce revoluce 1948 jsou zpřísněny policejní nařízení, u moci je František Josef I., zemi řídil ministr Alexandr Bach
   - existovala přísná cenzura, byla potlačována svoboda projevu, omezilo se vydávání knih
   - tendence ke germanizaci
   - na začátku 60. let byl Bach odvolán a byl vydán Říjnový diplom, který obnovoval občanská práva
   - nejsilnější politická strana byla Národní strana, která se dělila na konzervativní Staročechy a na pokrokové Mladočechy
+
+## Májovci
   - roku 1858 – vznikl almanach Máj 
   - založili jej Jan Neruda, Vítězslav Hálek, přispěli také Karel Jaromír Erben, Božena Němcová, Karel Sabina, Karolína Světlá, atd. -> začalo se jim říkat májovci a v almanachu formulovali svůj program
   - chtěli povznést literaturu
@@ -221,3 +222,5 @@
   - *Šárka* - zhudebněna Leušem Janáčkem
   - *Neklan*
   - *Radúz a Mahulena* - zhudebněna Josefem Sukem
+
+následuje >> [Krtický realismus v české literatuře](kriticky-realismus-v-ceske-literature.md)
