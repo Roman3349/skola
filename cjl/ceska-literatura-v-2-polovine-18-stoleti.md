@@ -64,7 +64,7 @@
   - po dalších 11 letech vydal *Písně kosmické*, ve kterých již měl smířlivější postoj, víra v pokrok, motiv kosmu, který symbolizuje pokrok a rozvoj - *Jak lvové bijem o mříže*
   - *Balady a romance* - lyricko-epické útvary, pohnutější děj (balady končí tragicky a romance končí dobře)
   - *Romance o Karlu IV.* - myšlenka, že se nemají závěry dělat předčasně
-  - *Prosté motivy* - "citový denník"
+  - *Prosté motivy* - "citový deník"
   - *Zpěvy páteční* - našli se po jeho smrti, posledních jeho 10 básní
   - v poeziji je reálný pohled na svět, bez idealizace, verše normované, psány srozumitelně, rád používá trochej
 
@@ -91,22 +91,79 @@
   - *Nemodlenec*
   - *Kříž u potoka*
 
-## Jakub Arabes
+### Jakub Arabes
   - psal romaneta (prozaický slohový útvar, kde se řeší tajemná záhada, která je na konci vědecky objasněna)
   - *Newtonův mozek*
   - *Ďábel na skřipci*
   - *Sivooký démon*
   - *Zázračná Madona*
 
-## Rudolf Mayer
+### Rudolf Mayer
   - předčasně zemřel na TBC
   - byl velice nadaný
   - měl blízko k Máchovi
  
-## Adolf Heyduk
+### Adolf Heyduk
   - básník, psal přírodní a intimní lyriku
   - sbírka *Cimbál a housle* - vyznání ke Slovensku
 
-## Sofie Podlipská
+### Sofie Podlipská
   - mladší sestra Karolíny Světlé
   - má blízko k Májovcům
+
+## Ruchovci
+  - literární skupina, která tvořila od 70. let 19. století
+  - sdružili se kolem almanachu Ruch, který byl založen při pokládání základního kamenu Národního divadla v roce 1868
+  - věnovali se aktuálním problémům, sociální problematice, kladli důraz na vlastenectví, tradice, venkov, českou historii a Slovanství
+  - říká se jim také "Škola národní"
+ 
+### Svatopluk Čech
+  - nejvýznamnější představitel
+  - pocházel z venkova a narodil se do vlastenecké rodiny
+  - redaktor a spisovatel
+
+#### 1. Epika
+  - alegorie (jinotaj) - má skrytý význam
+  - *Evropa* - název lodi, na které plují představitelé evropských zemí, při vzpouře se loď zničí, protože se nedokáží domluvit
+  - *Slávie* - navazuje na dílo Evropa, ale na lodi jsou Slované, když dojde ke vzprouře, tak se Slované domluví a loď zachrání
+  - *Ve stínu lípy* - veršované povídky, které si vyprávějí lidé sedící pod lípou, dříve jeho nejpopulárnější dílo
+  - *Lešetínský kovář* - veršovaná povídka, kde se objevuji sociální problémy
+
+#### 2. Lyrika
+  - psal vlasteneckou a politickou lyriku
+  - *Písně otroka*
+  - *Nové písně*
+  - *Jitřní písně*
+
+#### 3. Próza
+  - *Pravý výlet pana Broučka do Měsíce* - poprvé se zde objevuje postava pražského měšťana pana Broučka, paroduje svou postavu a romány francouzského spisovatele Julese Verna
+  - *Nový epochální výlet pana Broučka, tentokráte do XV. století* - tato kniha ho proslavila, hlavně kritika českého měšťana
+
+### Eliška Krásnohorská
+  - pseudonym
+  - podílela se na založení dívčího gymnázia
+  - v literatuře se bránila všem novým směrům
+  - napsala libreta ke Smetanovým operám Čertova stěna, Hubička a Tajemství
+
+### Josef Václav Sládek
+  - nejdříve se hlásil k ruchovcům, později k lumírovcům
+  - po studiích působil v Chicagu jako vychovatel do dobu 2 let, poté cestovat a dobře poznal Ameriku (všímal se mimo jiné i nátlaku na indiány)
+  - redaktor Národních listů
+  - uměl dobře anglicky
+  - dítě a manželka zemřela při porodu, když si poté vzal jinou ženu, tak onemocněl
+
+#### Amerika
+  - *Jiskry na moři* - báseň *Na hrobech indiánských*
+  - *Americké obrázky*
+
+#### Manželka
+  - *Na prahu ráje* - milostná lyrika, optimistické verše
+  - *Světlou stopou* - milostná lyrika, optimistické verše
+
+#### Venkov
+  - *Selské písně*
+  - *České znělky*
+
+#### Poezie pro děti
+  - *Zvony a zvonky*
+  - *Zlatý máj*
