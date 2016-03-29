@@ -6,7 +6,7 @@
 ## Německo
 ### Fridrich II. (1740-1786)
   - 1. monarcha, který sám sebe považoval za osvícence a pruský král 
-    - intelektuální předpoklady - znám literární činností, politické úvahy (spis Antimachiavelli - zpochybnění zásady !účel světí prostředky" = politika prováděna bez ohledu na prostředky za dosažení cíle, i obhajoba zločinnosti)
+    - intelektuální předpoklady - znám literární činností, politické úvahy (spis Antimachiavelli - zpochybnění zásady „účel světí prostředky" = politika prováděna bez ohledu na prostředky za dosažení cíle, i obhajoba zločinnosti)
     - "Stát je nejvyšší autorita a každá osoba včetně panovníka je podřízena jeho zájmům. Král jako první služebník státu musí mít proto absolutní moc.
     - zlepšil vzdělání, obchod, manufaktury a náboženskou toleranci
 
@@ -23,7 +23,7 @@
     - Sedmiletá válka (1756-1763) - hlavní nepřítel Prusko, ztratili Slezsko
   - reformy
     - v oblasti státní správy - centrální moc ve Vídni, 1 jazyk - němčina
-      1. centrální úřad = directorium s dohližitelskou funkcí
+      1. centrální úřad = directorium s dohlížitelkou funkcí
       2. zřízen nejvyšší soudní dvůr s pravomocí pro celý stát
       3. ústřední vláda složená z rakouských Němců, omezena privilegia zemských stavovských sněmů
       4. úřady zastávali byrokraté (školení úředníci)
@@ -31,7 +31,7 @@
       1. vznik nových textilních manufaktur (Podkrkonoší)
       2. zavedena společná tolarová a zlatková měna (až do roku 1900, poté koruny)
       3. zrušeny celní hranice mezi jednotlivými zeměmi
-      4. zavedena jednotná soustava měr a vah (loket, kolba, váz, od 70. let 19. století desetinná soustava, poté v 1. čtvrtině 20. století zavadena soustava SI)
+      4. zavedena jednotná soustava měr a vah (loket, kolba, váz, od 70. let 19. století desetinná soustava, poté v 1. čtvrtině 20. století zavedena soustava SI)
     - školské
       1. 1774 povinná školní docházka
         - na venkově triviální školy (číst, psát , počítat)
@@ -45,7 +45,7 @@
       4. standardizované uniformy
 
 ## Josef II. (1780-1790)
-  - po smrti otce převzal titul nšmecký císař a stal se spoluvládcem Marie Terezie
+  - po smrti otce převzal titul německý císař a stal se spoluvládcem Marie Terezie
   - reformy - státní správa
     1. říši rozdělil do 13 velkých oblastí - úřední jazyk němčina
     2. 1783 spojeno Slezsko a Morava - správní sídlo Brno

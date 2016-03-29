@@ -2,20 +2,20 @@
 
 ## Německo
   - rozdrobeno
-  - největší země: Sasko, Bavorsko, Braniborko + východní Prusko (1807 království Braniborsko-pruské)
+  - největší země: Sasko, Bavorsko, Braniborsko + východní Prusko (1807 království Braniborsko-pruské)
   - 1701 královský titul Fridrich Hohenzollern - hlavní město Berlín
-  - rozhodující země pro vávoj v Německu a při sjednocování Německa bylo Prusko
+  - rozhodující země pro vývoj v Německu a při sjednocování Německa bylo Prusko
 
 ### Vývoj v Prusku
   - Braniborský kurfiřt Fridrich Vilém (1640-1688) - hospodářský rozvoj
-  - Fridrich I. (1688-1713) - 1701 královský titul za účast ve válce o španělské dědictví na straně Rakouska. Charlottenburg, Halle - univerzita, Královká akademie umění, Berlín - Akademie věd
+  - Fridrich I. (1688-1713) - 1701 královský titul za účast ve válce o španělské dědictví na straně Rakouska. Charlottenburg, Halle - univerzita, Královská akademie umění, Berlín - Akademie věd
   - Fridrich Vilém I. (1713-1740) - nejlepší vojsko v Evropě
   - Fridrich II. (1740-1786) - současník Marie Terezie
 
 ## Rakousko
 ### Leopold I. (1657-1705)
   - otec: Ferdinand III., matka Marie Anna (dcera Filipa III.)
-  - manželka Markéta (sestra španělského krále Karla II. - jím vymřela španělská větev Hasburků)
+  - manželka Markéta (sestra španělského krále Karla II. - jím vymřela španělská větev Habsburků)
   - neuměl česky, v Čechách by 3x: 1656 korunovace, 1673 základní kámen k dostavbě sv. Víta, 1679, 1680 před morem, 1x v Chebu u vojska)
   - hudební skladatel
   - opíral se o šlechtu, vídeňský dvůr - po vzoru Versailles
@@ -26,12 +26,12 @@
     - 1663 - Turci překročili Dunaj, postup do střední Evropy, Slovensko (za pevnost Leopoldov)
     - 1664 - příměří: Uhry rozděleny na rakouskou a tureckou část
     - 1683 - Turci a Maďaři u Vídně (25 000 mužů), obránci Vídně (14 000 mužů), Papež vyzval Evropu ke křížovému tažení proti Turkům. Koalice: Sasko, Bavorsko, , Polsko (král Jan III. Sobieský), vojevůdci Karel Lotrinský, Evžen Savojský. Vítězství nad Turky
-  - Maďaři proti Hasburkům: maďarský velmož František Rákoczi, 1711 szatmarský mír mezi uherskou šlechtou a Hasburky, šlechta uznává Hasburky na trůně, Hasburci zachovávají stavovské výsady šlechty
+  - Maďaři proti Habsburkům: maďarský velmož František Rákoczi, 1711 szatmarský mír mezi uherskou šlechtou a Habsburky, šlechta uznává Habsburky na trůně, Habsburci zachovávají stavovské výsady šlechty
 
 ### Josef I. (1705-1711)
   - otec Leopold I., matka Beonora Falcká (3. žena Leopolda I.)
   - měl rád hudbu, přívětivý, malý, usměvavý, světlovlasý
-  - vdělaný: uměl latinsky, fransouzky, španělsky, vlašsky, maďarsky, česky
+  - vzdělaný: uměl latinsky, francouzsky, španělsky, vlašsky, maďarsky, česky
   - než nastoupil k vládě: nevázanost mravů, pitky, noční výtržnosti, milostné pletky, levobočci
   - po nástupu k vládě, ale reformoval zákonodárství
   - nábožensky snášenlivý
@@ -50,7 +50,7 @@
 ## Rusko
 ### Petr I. Veliký (1689-1725)
   - války:
-    - 1700-1721 - Severní válka: Rusko, Dánsko, Polsko proti Švédsku, bitva u Narvy - vítěz Švédsko, bitba Petr I.
+    - 1700-1721 - Severní válka: Rusko, Dánsko, Polsko proti Švédsku, bitva u Narvy - vítěz Švédsko, bitva Petr I.
   - reformy
     - vojenské - 1703 založen Petrohrad, vybudováno loďstvo, námořnictvo, většina financí na armádu
     - hospodářské - vzorem západní Evropa: západní technici, technologie, umělci do Ruska, nařídil nosit západní šat, holit si tváře - kromě kněží a rolníků - zavedl kouření, upravil ruský kalendář podle západního vzoru; založeny manufaktury na výrobu železa a mědi na Urale, Merkantilní politika, podpora podnikání
@@ -58,9 +58,9 @@
     - vzdělání - zřízení vojenské akademie, technické školy, vydávání technických spidů, 1703 poprvé noviny, zjednodušena ruská abeceda, první nemocnice, muzeum, Ruská akademie věd
   - územní zisky: Livonsko (Lotyšsko, Estonsko), Karélie ve Finském zálivu, území u Kaspického moře, Azov
 
-### Kateřina II (1762-1796)
+### Kateřina II. (1762-1796)
   - u Černého moře založila přístavy Oděsa a Sevastopol
-  - osídlování jížních částí a severovýchodu
+  - osídlování jižních částí a severovýchodu
   - utužení nevolnictví, potlačena povstání (popraven vůdce rolnického povstání Pugačov)
 
 
