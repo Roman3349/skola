@@ -45,3 +45,38 @@
   - oblíbil si Španělsko (kulturu, ceremoniály, byrokratický systém)
   - 1713 - pragmatická sankce: dědictví trůnu pro Marii Terezii
   - snahy o rozvoj hospodářství: merkantilismus (zakládání nových podniků, zlepšování silnic pro rozvoj obchodu), pomalý ekonomický rozvoj
+
+
+## Rusko
+### Petr I. Veliký (1689-1725)
+  - války:
+    - 1700-1721 - Severní válka: Rusko, Dánsko, Polsko proti Švédsku, bitva u Narvy - vítěz Švédsko, bitba Petr I.
+  - reformy
+    - vojenské - 1703 založen Petrohrad, vybudováno loďstvo, námořnictvo, většina financí na armádu
+    - hospodářské - vzorem západní Evropa: západní technici, technologie, umělci do Ruska, nařídil nosit západní šat, holit si tváře - kromě kněží a rolníků - zavedl kouření, upravil ruský kalendář podle západního vzoru; založeny manufaktury na výrobu železa a mědi na Urale, Merkantilní politika, podpora podnikání
+    - státní správa - země rozdělena na gubernie, centrální vláda, senát - kontrola finančního systému - šlechta ve státní správě, daň z hlavy
+    - vzdělání - zřízení vojenské akademie, technické školy, vydávání technických spidů, 1703 poprvé noviny, zjednodušena ruská abeceda, první nemocnice, muzeum, Ruská akademie věd
+  - územní zisky: Livonsko (Lotyšsko, Estonsko), Karélie ve Finském zálivu, území u Kaspického moře, Azov
+
+### Kateřina II (1762-1796)
+  - u Černého moře založila přístavy Oděsa a Sevastopol
+  - osídlování jížních částí a severovýchodu
+  - utužení nevolnictví, potlačena povstání (popraven vůdce rolnického povstání Pugačov)
+
+
+## Polsko
+  - hlavní moc měla šlechta, 50 provincií, v čele sejm (právo veta)
+  - král Jan Kazimír (1648-1668) - ztráta území
+  - trojí dělení:
+    - 1772-1773 - ztráta jedné třetiny území: Prusko si připojilo Pomořansko a Slezsko a tím se spojilo s východním Pruskem, Rakousko si připojilo Halič, Rusko si připojilo Bělorusko a Ukrajinu
+    - 1793 - ztráta poloviny území
+    - 1795 - Polsko zmizelo z mapy Evropy
+    - 1794 neúspěšné povstání Tadeusze Kosciuszka)
+
+## Skandinávie
+  - Dánsko
+    - Frederick III. (1648-1670) "král pod zákonem"
+    - Kristián V.
+  - Švédsko
+    - Karel XI. (1660-1697)
+    - Karel XII. (1697-1718) - ztáty pro Švédsko, následovala konstituční monarchie
