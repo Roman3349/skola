@@ -26,7 +26,7 @@
     - 1663 - Turci překročili Dunaj, postup do střední Evropy, Slovensko (za pevnost Leopoldov)
     - 1664 - příměří: Uhry rozděleny na rakouskou a tureckou část
     - 1683 - Turci a Maďaři u Vídně (25 000 mužů), obránci Vídně (14 000 mužů), Papež vyzval Evropu ke křížovému tažení proti Turkům. Koalice: Sasko, Bavorsko, , Polsko (král Jan III. Sobieský), vojevůdci Karel Lotrinský, Evžen Savojský. Vítězství nad Turky
-  - Maďaři proti Habsburkům: maďarský velmož František Rákoczi, 1711 szatmarský mír mezi uherskou šlechtou a Habsburky, šlechta uznává Habsburky na trůně, Habsburci zachovávají stavovské výsady šlechty
+  - Maďaři proti Habsburkům: maďarský velmož František Rákoczi, 1711 [Satmárský mír](https://cs.wikipedia.org/wiki/Satm%C3%A1rsk%C3%BD_m%C3%ADr) mezi uherskou šlechtou a Habsburky, šlechta uznává Habsburky na trůně, Habsburci zachovávají stavovské výsady šlechty
 
 ### Josef I. (1705-1711)
   - otec Leopold I., matka Beonora Falcká (3. žena Leopolda I.)
@@ -50,19 +50,18 @@
 ## Rusko
 ### Petr I. Veliký (1689-1725)
   - války:
-    - 1700-1721 - Severní válka: Rusko, Dánsko, Polsko proti Švédsku, bitva u Narvy - vítěz Švédsko, bitva Petr I.
+    - 1700-1721 - Severní válka: Rusko, Dánsko, Polsko proti Švédsku, bitva u Narvy - vítěz Švédsko, bitva u Poltavy - vítěz Petr I.
   - reformy
     - vojenské - 1703 založen Petrohrad, vybudováno loďstvo, námořnictvo, většina financí na armádu
     - hospodářské - vzorem západní Evropa: západní technici, technologie, umělci do Ruska, nařídil nosit západní šat, holit si tváře - kromě kněží a rolníků - zavedl kouření, upravil ruský kalendář podle západního vzoru; založeny manufaktury na výrobu železa a mědi na Urale, Merkantilní politika, podpora podnikání
     - státní správa - země rozdělena na gubernie, centrální vláda, senát - kontrola finančního systému - šlechta ve státní správě, daň z hlavy
-    - vzdělání - zřízení vojenské akademie, technické školy, vydávání technických spidů, 1703 poprvé noviny, zjednodušena ruská abeceda, první nemocnice, muzeum, Ruská akademie věd
+    - vzdělání - zřízení vojenské akademie, technické školy, vydávání technických spisů, 1703 poprvé noviny, zjednodušena ruská abeceda, první nemocnice, muzeum, Ruská akademie věd
   - územní zisky: Livonsko (Lotyšsko, Estonsko), Karélie ve Finském zálivu, území u Kaspického moře, Azov
 
 ### Kateřina II. (1762-1796)
   - u Černého moře založila přístavy Oděsa a Sevastopol
   - osídlování jižních částí a severovýchodu
   - utužení nevolnictví, potlačena povstání (popraven vůdce rolnického povstání Pugačov)
-
 
 ## Polsko
   - hlavní moc měla šlechta, 50 provincií, v čele sejm (právo veta)

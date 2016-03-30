@@ -2,7 +2,7 @@
 
 ## Ludvík XIV. (1643-1715)
   - narodil se v roce 1638
-  - kardinál Masarin (zemřel 1661)
+  - [kardinál Mazarin](https://cs.wikipedia.org/wiki/Jules_Mazarin) (zemřel 1661)
   - říkalo se mu král Slunce
   - mocenské prostředky opory absolutismu - armáda, policie, úřednická státní správa, katolická církev
   - 1688 zrušen [Nantský edikt](https://cs.wikipedia.org/wiki/Edikt_nantsk%C3%BD): "Jeden král, jedna víra, jeden zákon"

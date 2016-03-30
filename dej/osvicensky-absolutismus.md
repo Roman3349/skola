@@ -7,7 +7,7 @@
 ### Fridrich II. (1740-1786)
   - 1. monarcha, který sám sebe považoval za osvícence a pruský král 
     - intelektuální předpoklady - znám literární činností, politické úvahy (spis Antimachiavelli - zpochybnění zásady „účel světí prostředky" = politika prováděna bez ohledu na prostředky za dosažení cíle, i obhajoba zločinnosti)
-    - "Stát je nejvyšší autorita a každá osoba včetně panovníka je podřízena jeho zájmům. Král jako první služebník státu musí mít proto absolutní moc.
+    - "Stát je nejvyšší autorita a každá osoba včetně panovníka je podřízena jeho zájmům. Král jako první služebník státu musí mít proto absolutní moc."
     - zlepšil vzdělání, obchod, manufaktury a náboženskou toleranci
 
 ## Rakousko
