@@ -1,12 +1,12 @@
 # Organizace spojených národů (OSN)
   - nejvýznamnější celosvětová organizace jejíž cílem je ochrana lidských práv, bezpečnosti a míru
   - organizace hlavně politická, ale má i vlastní vojenské složky "modré přilby!
-  - založana: 26. 6. 1945 v San Franciscu - podepsána Všeobecná deklarace OSN (50 zakládajících států - ČSR byla zakládajícím členem), deklarace nabyla účinnosti dne 24. 10. 1945
+  - založena: 26. 6. 1945 v San Franciscu - podepsána Všeobecná deklarace OSN (50 zakládajících států - ČSR byla zakládajícím členem), deklarace nabyla účinnosti dne 24. 10. 1945
   - počet členů: 193
 
 ## Hlavní orgány
-### Valné schromáždění
-  - sídlí v New Yourku
+### Valné shromáždění
+  - sídlí v New Yorku
   - jsou zde zastoupeny všechny členské státy, každý stát má 1 hlas
   - nyní předsedá Uganda
   - schůze je od září do září následujícího roku
@@ -15,7 +15,7 @@
 
 ### Rada bezpečnosti
   - její rozhodnutí jsou závazná, vymahatelná a většinou spojená s vojenským zásahem
-  - členů: 15 (5 stálých - USA, Velká británie, Rusko, Čína, Francie + 10 nestálých - voleni vždy na 2 roky, volí je Valné schromáždění)
+  - členů: 15 (5 stálých - USA, Velká Británie, Rusko, Čína, Francie + 10 nestálých - voleni vždy na 2 roky, volí je Valné shromáždění)
   - hlasování: nadpoloviční většina, ale žádný ze stálých členů nesmí být proti
 
 ### Generální tajemník
@@ -30,14 +30,14 @@
 #### Organizace spojených národů pro výchovu, vědu a kulturu (UNESCO)
   - vznikla v roce 1946
   - sídlo: Paříž
-  - hlavní úkol: podpora vzdělanosti, pěče o děti, ochrana kulturních památek a hodnot
+  - hlavní úkol: podpora vzdělanosti, péče o děti, ochrana kulturních památek a hodnot
   - vytvořilo Seznam světového kulturního a přírodního děditství UNESCO, na tento seznamu jsou památky, o které je potřeba se starat, tak aby se staly kulturním dědictvím, v ČR (Zelená Hora u Žďáru na Sázavou, Lednicko-Valtický areál, Český Krumlov, Telč, Holašovice - selské baroko, Praha, Kutná Hora - chrám sv. Barbory, Vila Tugenhat, Olomouc - morový sloup, Kroměříž, Třebíč - židovská čtvrť, Litomyšl, ...)
 
-#### Mezinárosní měnový fond
+#### Mezinárodní měnový fond
   - založen 1944
   - sídlo: Washington D.C.
   - udržení měnové stability ve světě
-  - poskytuje úveřy státům
+  - poskytuje úvěry státům
   - snaží se podporovat rozvoj světového obchodu
 
 #### Mezinárodní zdravotnická organizace (WHO)
@@ -46,6 +46,6 @@
   - úkoly:
     - sleduje stav lékařské péče v zemích celého světa
     - navrhuje opatření při šíření nebezpečných nemocí nebo při poskytování lékařské pomoci
-  
+
 #### Dětský fond OSN (UNICEF)
 #### Úřad vysokého komisaře OSN pro uprchlíky

@@ -45,8 +45,8 @@
   - největší moc
   - vznikl 1979
   - 751 poslanců (Lisabonská smlouva toto číslo považuje za konečné)
-  - počet Europoslanců je udán podle lidnatosti dané země (ČR má jich 21)
-  - volby mají proporciální (poměrný) systém (jako do Poslanecké sněmovny)
+  - počet Euro-poslanců je udán podle lidnatosti dané země (ČR má jich 21)
+  - volby mají proporcionální (poměrný) systém (jako do Poslanecké sněmovny)
   - pasivní volební právo: od 21 let
   - funkční období: 5 let
   - sídla:
@@ -57,17 +57,17 @@
 
 ### Evropská komise
   - výkonný orgán
-  - skládá se z Eurokomisařů
+  - skládá se z Euro-komisařů
   - každá země má jednoho
   - současná komise je ve funkci od roku 2014
   - funkční období: 5 let
   - předseda: Jean Claude Juncker
-  - česká Eurokomisařka: Věra Jourová - rezort pro rovné příležitosti
-  - volba Eurokomisaře:
-    1. vláda členské zamě schválí kandidáta
+  - česká Euro-komisařka: Věra Jourová - rezort pro rovné příležitosti
+  - volba Euro-komisaře:
+    1. vláda členské země schválí kandidáta
     2. kandidát předstoupí před Evropský parlament a ptají se ho na různé otázky (grilují ho)
     3. schválen Evropským parlamentem, nezodpovídá se své zemi, ale předsedovi
-  - Eurokomisaři by se měli rozhodovat ve prospěch celé EU
+  - Euro-komisaři by se měli rozhodovat ve prospěch celé EU
   - sídlí v Bruselu
 
 ### Rada Evropské unie (Rada ministrů)
@@ -111,8 +111,8 @@
 
 ### Evropská centrální banka
   - sídlo: Frankfurt nad Mohanem
-  - úkoly: stejné jako úkoly centrálních bank: dohled nad trhem Eurozóny (19 států EU + i jiné země např. Monako, Vatikán, Androra)
+  - úkoly: stejné jako úkoly centrálních bank: dohled nad trhem Eurozóny (19 států EU + i jiné země např. Monako, Vatikán, Andorra)
 
 ### Evropský účetní dvůr
   - sídlo: Lucemburk
-  - úkol: dohled na správné a účelné vynakládání peněz evropských institucí (jako NKU v ČR)
+  - úkol: dohled na správné a účelné vynakládání peněz evropských institucí (jako NKÚ v ČR)
