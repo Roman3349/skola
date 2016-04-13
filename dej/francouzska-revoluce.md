@@ -8,6 +8,12 @@
     - 1. a 2. privilegovaný (šlechta 2 %, duchovenstvo 1 %)
     - 3. buržoazie, obchodníci, inteligenti, řemeslníci, městská a venkovská chudina (97 %)
   - ideologií 3 stavů se stalo osvícenství; heslo: volnost, rovnost, bratrství
+  - parlamenty:
+    - generální stavy
+    - Národní shromáždění
+    - Ústavodárné shromáždění
+    - Zákonodárné shromáždění
+    - Konvent
 2. Problematika nových daní, zasedání generálních stavů (1. polovina 1789, vznik národního shromáždění, sepsaly požadavky)
 3. 14. 7. 1789 - pád Bastily, národní gardy, sepsána Deklarace práv člověka a občana (svoboda, zrušení stavů, rovnost občanů před zákony)
 4. národní shromáždění -> ústavodárné shromáždění zasedá v Paříži (i král) - příprava ústavy
