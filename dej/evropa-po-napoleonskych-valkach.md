@@ -3,6 +3,7 @@
 ## Vídeňský kongres (1814-1815)
 
  1. Účastníci
+
 |      země      |       představitel      |
 | :------------: | :---------------------: |
 | Velká Británie |    ministr zahraničí    |
